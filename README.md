@@ -1,2 +1,2 @@
 # Lab3
-# Үгсийн аймаг тодорхойлох. src>main>java>nlp>SentenceRun
+Үгсийн аймаг тодорхойлох. src>main>java>nlp>SentenceRun
